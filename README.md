@@ -32,6 +32,9 @@
 24. Microsoft Azure Pass Subscription: https://www.microsoftazurepass.com/Home/HowTo
 25. 
 
+## Coding 
+1. Codebar: https://codebar.io/
+
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
 
@@ -171,3 +174,10 @@
 ⚡ flatworld.co
 ⚡ peoplefirstjobs.com
 ⚡ remoteindex.co 
+
+## Women Communities and Programs for Women
+1. PyLadies: https://pyladies.com/ 
+2. Correlation One : https://www.correlation-one.com/data-science-for-all-women?utm_source=referral&utm_medium=direct&utm_campaign=ds4a_tena
+3. WomenWhoCode: https://www.womenwhocode.com/about
+4. girlscript: https://gssoc.girlscript.tech/
+5. 
