@@ -25,7 +25,12 @@
 17. Work with Data in Azure Machine Learning: https://docs.microsoft.com/en-us/learn/modules/work-with-data-in-aml/
 18. Data in Azure Machine Learning: https://docs.microsoft.com/en-us/azure/machine-learning/concept-data#access-data-in-storage
 19. 26daysofConcepts: https://drive.google.com/file/d/1gZdEJe_GpIQ6SeQf7HuYg01_Y3P72Yeu/view
-
+20. Define and implement cutting-edge AI solutions: https://docs.microsoft.com/en-us/learn/roles/ai-engineer
+21. Exam AI-900: Microsoft Azure AI Fundamentals : https://docs.microsoft.com/en-us/certifications/exams/ai-900?tab=tab-learning-paths
+22. Learn about all the notebooks experiences from Microsoft and GitHub : https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/
+23. AI for Students: https://ms.cloudthat.com/aiforstudents/
+24. Microsoft Azure Pass Subscription: https://www.microsoftazurepass.com/Home/HowTo
+25. 
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -132,7 +137,8 @@
    - Spark 
    - Excel 
    - DevOps Top 
-## Useful Reads
+   
+## Useful Reads and Links
 1. Tech Blog 👉 https://skillcrush.com/blog/
 2. Learn Web Scraping using Python in under 5 minutes 👉 https://medium.com/@kaustumbhjaiswal7/learn-web-scraping-using-python-in-under-5-minutes-36a7d4d6e1e7
 3. How to Build a Stunning Interactive Dashboard within 10 Minutes 👉 https://towardsdatascience.com/how-to-build-a-great-dashboard-ee0518c3d3f7
@@ -141,6 +147,7 @@
 6. College Algebra – Learn College Math Prerequisites with this Free 7-Hour Course: https://www.freecodecamp.org/news/learn-algebra-to-improve-your-programming-skills/
 7. Free Books Download: https://www.pdfdrive.com/
 8. Blogs: [Medium.com](https://medium.com/) and [Towardsdatascience.com](https://towardsdatascience.com/)
+9. Skillpipe Knowledge Base: https://policies.skillpipe.com/en/faq/#user-guide
 
 
 
