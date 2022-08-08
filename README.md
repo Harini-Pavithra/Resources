@@ -66,6 +66,10 @@
    - 2.9 Data Science - Johns Hopkins University: https://lnkd.in/gAmaVhB
    - 2.10 Artificial Intelligence - Andrew Ng: https://lnkd.in/gWfK4qa
 
+## Developer Communities
+1. Morioh: https://morioh.com/
+2. Solve for Good: https://solveforgood.org/
+3. 
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
 
@@ -151,6 +155,7 @@
 7. Free Books Download: https://www.pdfdrive.com/
 8. Blogs: [Medium.com](https://medium.com/) and [Towardsdatascience.com](https://towardsdatascience.com/)
 9. Skillpipe Knowledge Base: https://policies.skillpipe.com/en/faq/#user-guide
+10. Is Tech right for you? https://skillcrush.com/is-tech-right-for-you/?hsCtaTracking=6a6cbad7-f2fb-42a0-9232-7ef44ac2ab4c%7Cf59d069a-dabf-4d83-acc7-f1e639d5beac
 
 
 
@@ -174,10 +179,17 @@
 ⚡ flatworld.co
 ⚡ peoplefirstjobs.com
 ⚡ remoteindex.co 
+⚡ turing.com
 
 ## Women Communities and Programs for Women
 1. PyLadies: https://pyladies.com/ 
 2. Correlation One : https://www.correlation-one.com/data-science-for-all-women?utm_source=referral&utm_medium=direct&utm_campaign=ds4a_tena
 3. WomenWhoCode: https://www.womenwhocode.com/about
 4. girlscript: https://gssoc.girlscript.tech/
-5. 
+5. Women Techmakers: https://developers.google.com/womentechmakers
+6. Women In Tech: https://women-in-tech.org/
+7. WomenInAI : https://www.womeninai.co/
+8. Women in data science and AI - Resources: https://www.turing.ac.uk/research/research-projects/women-data-science-and-ai/resources
+9. 19 organizations advancing women in tech: https://www.cio.com/article/215709/16-organizations-for-women-in-tech.html/amp
+10. Datascience for all: https://www.correlation-one.com/data-science-for-all-empowerment?utm_source=amb&utm_medium=amb&utm_campaign=TENA
+11. Girls x Tech: https://www.ivolunteer.in/organization/0017F00002DVfvyQAD
