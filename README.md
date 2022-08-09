@@ -30,7 +30,14 @@
 22. Learn about all the notebooks experiences from Microsoft and GitHub : https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/
 23. AI for Students: https://ms.cloudthat.com/aiforstudents/
 24. Microsoft Azure Pass Subscription: https://www.microsoftazurepass.com/Home/HowTo
-25. 
+25. Microsoft Azure AI Fundamentals: Explore visual tools for machine learning: https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/
+26. Microsoft Learning DP100 Exam Preparation: https://github.com/MicrosoftLearning/DP100
+27. ML Basics: https://github.com/MicrosoftDocs/ml-basics
+28. Create machine learning models: https://docs.microsoft.com/en-us/learn/paths/create-machine-learn-models/
+29. AI Fundamentals: https://github.com/MicrosoftDocs/ai-fundamentals
+30. For more details about the course outline, Sample Questions, Online –free Training and hands-on lab:- https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900
+31. AI Fundamentals: https://github.com/MicrosoftDocs/ai-fundamentals
+32. Use Computer Vision to generate image metadata in Azure Storage: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial
 
 ## Coding 
 1. Codebar: https://codebar.io/
