@@ -38,6 +38,15 @@
 30. For more details about the course outline, Sample Questions, Online –free Training and hands-on lab:- https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900
 31. AI Fundamentals: https://github.com/MicrosoftDocs/ai-fundamentals
 32. Use Computer Vision to generate image metadata in Azure Storage: https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/tutorials/storage-lab-tutorial
+33. Exam DP-203: Data Engineering on Microsoft Azure: https://docs.microsoft.com/en-us/certifications/exams/dp-203?source=learn
+34. Exam DP-200: Implementing an Azure Data Solution: https://docs.microsoft.com/en-us/certifications/exams/dp-200
+35. Exam DP-201: Designing an Azure Data Solution: https://docs.microsoft.com/en-us/certifications/exams/dp-201
+36. 🗒 #30DaysToLearnIt Challenge: https://developer.microsoft.com/en-us/offers/30-days-to-learn-it
+37. Azure Synapse Analytics: https://docs.microsoft.com/en-us/learn/challenges?id=3d6cb3b9-f4b7-4d7b-ab23-57faa1762705
+38. Azure Stream Analytics documentation: https://docs.microsoft.com/en-us/azure/stream-analytics/
+39. Azure Databricks documentation: https://docs.microsoft.com/en-us/azure/databricks/
+40. Azure Synapse Analytics: https://docs.microsoft.com/en-us/azure/synapse-analytics/
+41. Azure SQL documentation: https://docs.microsoft.com/en-us/azure/azure-sql/?view=azuresql
 
 ## Coding 
 1. Codebar: https://codebar.io/
