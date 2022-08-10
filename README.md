@@ -47,6 +47,10 @@
 39. Azure Databricks documentation: https://docs.microsoft.com/en-us/azure/databricks/
 40. Azure Synapse Analytics: https://docs.microsoft.com/en-us/azure/synapse-analytics/
 41. Azure SQL documentation: https://docs.microsoft.com/en-us/azure/azure-sql/?view=azuresql
+42. AIEngineering youtube channel: https://www.youtube.com/c/AIEngineeringLife
+43. Google Skill Challenges: https://www.cloudskillsboost.google/?utm_source=inthecloud&utm_medium=et&utm_campaign=FY22-gcm-campaign-redirect&utm_content=gcmredirect&utm_term=-
+44. Text to Code: https://github.com/deepklarity/jupyter-text2code
+45. ML Resources: https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal
 
 ## Coding 
 1. Codebar: https://codebar.io/
