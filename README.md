@@ -51,9 +51,14 @@
 43. Google Skill Challenges: https://www.cloudskillsboost.google/?utm_source=inthecloud&utm_medium=et&utm_campaign=FY22-gcm-campaign-redirect&utm_content=gcmredirect&utm_term=-
 44. Text to Code: https://github.com/deepklarity/jupyter-text2code
 45. ML Resources: https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal
+46. Introduction to Machine Learning with scikit-learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn
 
 ## Coding 
 1. Codebar: https://codebar.io/
+2. 30daysofcoding: https://www.blocktrain.info/
+3. Code for Cause: https://codeforcause.org/courses
+4. Exercise: https://exercism.org/
+5. Coding Interview Prep for Big Tech (FAANG): https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
