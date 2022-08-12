@@ -59,6 +59,9 @@
 3. Code for Cause: https://codeforcause.org/courses
 4. Exercise: https://exercism.org/
 5. Coding Interview Prep for Big Tech (FAANG): https://www.freecodecamp.org/news/coding-interview-prep-for-big-tech/
+6. 450 DSA questions: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+7. 75 Leetcode problems: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/htmlview
+8. DSA sheet 45 days: https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview#gid=0
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -110,6 +113,8 @@
   - 🤑 Levels.fyi
   - 🤑 Payscale
   - 🤑 Comparably
+5. Score my CV: https://www.scoremycv.com/
+6. 
 
 ## Scholarships
 
