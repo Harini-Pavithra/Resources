@@ -62,6 +62,7 @@
 6. 450 DSA questions: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 7. 75 Leetcode problems: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/htmlview
 8. DSA sheet 45 days: https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview#gid=0
+9. SDE sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -104,6 +105,8 @@
 
 ## Free Courses 
 1. Skillup free online courses: https://www.simplilearn.com/skillup-free-online-courses
+2. Free Monthly Learning Resources: https://github.com/josepraveen/free_monthly_learning_resources/tree/main/resources
+3. Skillshare for creative clases: https://www.skillshare.com/
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
@@ -114,7 +117,11 @@
   - 🤑 Payscale
   - 🤑 Comparably
 5. Score my CV: https://www.scoremycv.com/
-6. 
+6. Build your Future: https://buildyourfuture.withgoogle.com/resources?utm_medium=social&utm_source=website&utm_campaign=byf%20resources&src=Online%2FSocial%2FEB_Social_Care
+7. Neetcode: https://neetcode.io/
+8. How to start learning DSA: https://www.geeksforgeeks.org/how-to-start-learning-dsa/
+9. Salary Band: https://faangpath.com/blog/faang-companies-salary-bands/
+
 
 ## Scholarships
 
@@ -186,7 +193,10 @@
 8. Blogs: [Medium.com](https://medium.com/) and [Towardsdatascience.com](https://towardsdatascience.com/)
 9. Skillpipe Knowledge Base: https://policies.skillpipe.com/en/faq/#user-guide
 10. Is Tech right for you? https://skillcrush.com/is-tech-right-for-you/?hsCtaTracking=6a6cbad7-f2fb-42a0-9232-7ef44ac2ab4c%7Cf59d069a-dabf-4d83-acc7-f1e639d5beac
-
+11. Mockito: https://www.digitalocean.com/community/tutorials/mockito-mock-examples
+12. Blog: https://www.freecodecamp.org/news/how-to-start-a-blog-book/
+13. Articles: https://arxiv.org/
+14. 
 
 
 ## Website for remote work:
