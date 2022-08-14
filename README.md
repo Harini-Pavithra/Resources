@@ -52,6 +52,10 @@
 44. Text to Code: https://github.com/deepklarity/jupyter-text2code
 45. ML Resources: https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal
 46. Introduction to Machine Learning with scikit-learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn
+47. Start AI in 2022 — Become an expert from nothing, for free!: https://www.louisbouchard.ai/learnai/
+48. 
+
+
 
 ## Coding 
 1. Codebar: https://codebar.io/
@@ -63,6 +67,7 @@
 7. 75 Leetcode problems: https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/htmlview
 8. DSA sheet 45 days: https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview#gid=0
 9. SDE sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+10. 30DaysOfCoding: https://github.com/30DaysOfCoding
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -107,6 +112,10 @@
 1. Skillup free online courses: https://www.simplilearn.com/skillup-free-online-courses
 2. Free Monthly Learning Resources: https://github.com/josepraveen/free_monthly_learning_resources/tree/main/resources
 3. Skillshare for creative clases: https://www.skillshare.com/
+4. https://www.edyoda.com/
+5. Free Bootcamp: https://www.classcentral.com/report/javascript-and-webdev-bootcamps/
+6. Resources for Allies in Tech: https://mailchi.mp/cf4c70809792/info-for-allies
+
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
@@ -196,7 +205,10 @@
 11. Mockito: https://www.digitalocean.com/community/tutorials/mockito-mock-examples
 12. Blog: https://www.freecodecamp.org/news/how-to-start-a-blog-book/
 13. Articles: https://arxiv.org/
-14. 
+14. 6G: https://www.highspeedinternet.com/resources/6g-internet
+15. Leadership Podcast: https://vaishalilambe.club/about/?amp=1
+16. 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
+
 
 
 ## Website for remote work:
@@ -233,3 +245,5 @@
 9. 19 organizations advancing women in tech: https://www.cio.com/article/215709/16-organizations-for-women-in-tech.html/amp
 10. Datascience for all: https://www.correlation-one.com/data-science-for-all-empowerment?utm_source=amb&utm_medium=amb&utm_campaign=TENA
 11. Girls x Tech: https://www.ivolunteer.in/organization/0017F00002DVfvyQAD
+12. Women Scholarship: https://ingressive.org/
+13. The Linux Foundation Training (LiFT) Scholarship Program
