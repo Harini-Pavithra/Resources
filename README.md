@@ -53,9 +53,30 @@
 45. ML Resources: https://sgfin.github.io/learning-resources/?fbclid=IwAR1mdvyzKHj4Z1jvBKsZTzpZiDwDO8wRmAruv69p_1I223WizSuwqhVy9fE#causal
 46. Introduction to Machine Learning with scikit-learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn
 47. Start AI in 2022 — Become an expert from nothing, for free!: https://www.louisbouchard.ai/learnai/
-48. 
+48. Resources Post:
 
+➤ Data Science Skill Checklist
+https://lnkd.in/e2KR3qm
 
+➤ Master Machine Learning Algorithms
+https://lnkd.in/eewDyUE
+
+➤ Step by Step Guide to Data Cleaning in Pandas
+https://lnkd.in/eyfWKsi
+
+➤ Complete SQL Ebook
+https://lnkd.in/epkMQEm
+
+➤ 101 NLP Exercises
+https://lnkd.in/e65DvZP
+49. Kaggle 
+    - Tricks: https://www.dataquest.io/blog/kaggle-tips-tricks/
+    - Kaggle Progression System: https://www.kaggle.com/progression
+    - Udacity Kaggle Webinar: https://drive.google.com/file/d/1v6F1WsjoID_04qIwApc2yy8GdmVb3xUT/view
+50. PyTourch: https://github.com/ternaus/retinaface
+60. Face Detection Example: https://colab.research.google.com/drive/1wLXZyoybDRKizfcIzxPwkeYp-XDpTM-K#scrollTo=ugUkN6eqYMwc
+61. Translating Kaggle Into Your Professional Workflow : https://info.nvidia.com/translating-kaggle-into-you-professional-workflow-reg-page.html?ondemandrgt=yes#
+62. Udacity Study Jam: https://drive.google.com/file/d/11Lyrrk5bFhTJLQ-jSUZJi2uY67GvL-rz/view
 
 ## Coding 
 1. Codebar: https://codebar.io/
@@ -104,6 +125,7 @@
 1. Morioh: https://morioh.com/
 2. Solve for Good: https://solveforgood.org/
 3. 
+
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
 
@@ -133,6 +155,8 @@
 
 
 ## Scholarships
+1. The Linux Foundation Training (LiFT) Scholarship Program
+2. Udacity Scholarships: https://www.udacity.com/scholarships
 
 ## Top 10 Concepts/Sites
 1. TOP 10 SQL Concepts for Job Interview
@@ -212,6 +236,29 @@
    - Cloud Computing/AWS
    - Blockchain
    - IOT
+8. Top 10 Sites for Free Online Education:
+   - Coursera
+   - edX
+   - Khan Academy
+   - Udemy
+   - iTunesU Free Courses
+   - MIT OCW
+   - Stanford Online
+   - Codecademy
+   - Open Culture Online Courses
+   - Harvard courses
+9. Top 10 Sites to learn Excel for free
+   - Microsoft Excel Help Center
+   - Excel Exposure
+   - Chandoo
+   - Excel Central
+   - Contextures
+   - Excel Hero
+   - Mr. Excel
+   - Improve Your Excel
+   - Excel Easy
+   - Excel Jet
+
    
 ## Useful Reads and Links
 1. Tech Blog 👉 https://skillcrush.com/blog/
@@ -230,8 +277,6 @@
 14. 6G: https://www.highspeedinternet.com/resources/6g-internet
 15. Leadership Podcast: https://vaishalilambe.club/about/?amp=1
 16. 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
-
-
 
 ## Website for remote work:
 
