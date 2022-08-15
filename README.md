@@ -190,6 +190,28 @@
    - Spark 
    - Excel 
    - DevOps Top 
+6. Top 10 Sites for your career
+   - LinkedIN
+   - Indeed
+   - Careerealism
+   - Job-Hunt
+   - JobBait
+   - Career
+   - cloudGM4JH. com
+   - Talentsjobs. in
+   - Jibberjobber
+   - Glassdoor
+7. Top 10 Tech Skills in demand in 2022
+   - Machine Learning
+   - Mobile Development
+   - SEO/SEM Marketing
+   - Data Visualization
+   - Data Engineering
+   - UI/UX Design
+   - Cyber-security
+   - Cloud Computing/AWS
+   - Blockchain
+   - IOT
    
 ## Useful Reads and Links
 1. Tech Blog 👉 https://skillcrush.com/blog/
