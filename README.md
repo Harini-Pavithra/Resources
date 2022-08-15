@@ -89,6 +89,7 @@ https://lnkd.in/e65DvZP
 8. DSA sheet 45 days: https://docs.google.com/spreadsheets/d/1MGVBJ8HkRbCnU6EQASjJKCqQE8BWng4qgL0n3vCVOxE/htmlview#gid=0
 9. SDE sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 10. 30DaysOfCoding: https://github.com/30DaysOfCoding
+11. Concepts to understand: procedural decomposition, stepwise refinement, top down design.
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -124,7 +125,7 @@ https://lnkd.in/e65DvZP
 ## Developer Communities
 1. Morioh: https://morioh.com/
 2. Solve for Good: https://solveforgood.org/
-3. 
+
 
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
@@ -138,6 +139,8 @@ https://lnkd.in/e65DvZP
 5. Free Bootcamp: https://www.classcentral.com/report/javascript-and-webdev-bootcamps/
 6. Resources for Allies in Tech: https://mailchi.mp/cf4c70809792/info-for-allies
 
+## Hackathon
+1. The home for Hackathons: https://devpost.com/
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
@@ -152,7 +155,7 @@ https://lnkd.in/e65DvZP
 7. Neetcode: https://neetcode.io/
 8. How to start learning DSA: https://www.geeksforgeeks.org/how-to-start-learning-dsa/
 9. Salary Band: https://faangpath.com/blog/faang-companies-salary-bands/
-
+10. Resume Builder: https://flowcv.com/
 
 ## Scholarships
 1. The Linux Foundation Training (LiFT) Scholarship Program
