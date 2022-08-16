@@ -69,6 +69,7 @@ https://lnkd.in/epkMQEm
 
 ➤ 101 NLP Exercises
 https://lnkd.in/e65DvZP
+
 49. Kaggle 
     - Tricks: https://www.dataquest.io/blog/kaggle-tips-tricks/
     - Kaggle Progression System: https://www.kaggle.com/progression
@@ -77,6 +78,19 @@ https://lnkd.in/e65DvZP
 60. Face Detection Example: https://colab.research.google.com/drive/1wLXZyoybDRKizfcIzxPwkeYp-XDpTM-K#scrollTo=ugUkN6eqYMwc
 61. Translating Kaggle Into Your Professional Workflow : https://info.nvidia.com/translating-kaggle-into-you-professional-workflow-reg-page.html?ondemandrgt=yes#
 62. Udacity Study Jam: https://drive.google.com/file/d/11Lyrrk5bFhTJLQ-jSUZJi2uY67GvL-rz/view
+63. No code ML platforms: https://www.youtube.com/watch?v=T-BRBTwhM3M
+64. ML Resources: https://github.com/HeLsEroC/awesome-resources
+65. Bertelsmann AI Track Resources: https://airtable.com/shrkZQirGiyfdi9pG/tbltMRekRoCX9jOuZ
+66. Live ML course: https://github.com/roboticcam/machine-learning-notes?fbclid=IwAR0wUVCDpWUMTrlNuBEzwYA9n0dNk7m2hFi6g-_yonSfw9Jh-Jn9Huua-mY
+67. Data Science Tutorials: https://data-flair.training/blogs/data-science-tutorials-home/?fbclid=IwAR3YgskTqHNpKnr3p1MOL9iofl4fROXqV12RRvpT1XHn-KsPBwdtO8V3ZR0
+68. Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
+69. ML Roadmap: https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
+70. DS and ML books: https://acems.org.au/data-science-machine-learning-book-available-download
+71. ML with R: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0151EN+2017/course/
+
+
+## Cloud
+1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
 
 ## Coding 
 1. Codebar: https://codebar.io/
@@ -90,6 +104,8 @@ https://lnkd.in/e65DvZP
 9. SDE sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 10. 30DaysOfCoding: https://github.com/30DaysOfCoding
 11. Concepts to understand: procedural decomposition, stepwise refinement, top down design.
+12. Advent of Code: https://adventofcode.com/2020
+
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -280,6 +296,11 @@ https://lnkd.in/e65DvZP
 14. 6G: https://www.highspeedinternet.com/resources/6g-internet
 15. Leadership Podcast: https://vaishalilambe.club/about/?amp=1
 16. 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
+17. Canvas: https://www.strategyzer.com/canvas
+18. AI: https://news.harvard.edu/gazette/story/2020/12/are-humans-really-the-best-role-models-for-a-robot/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_191
+19. ML with Microcontrollers: https://hackaday.com/2020/12/04/remoticon-video-how-to-use-machine-learning-with-microcontrollers/
+20. Skills Intelligence: https://workera.ai/
+
 
 ## Website for remote work:
 
