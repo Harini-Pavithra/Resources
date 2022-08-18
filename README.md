@@ -54,21 +54,16 @@
 46. Introduction to Machine Learning with scikit-learn: https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn
 47. Start AI in 2022 — Become an expert from nothing, for free!: https://www.louisbouchard.ai/learnai/
 48. Resources Post:
-
-➤ Data Science Skill Checklist
-https://lnkd.in/e2KR3qm
-
-➤ Master Machine Learning Algorithms
-https://lnkd.in/eewDyUE
-
-➤ Step by Step Guide to Data Cleaning in Pandas
-https://lnkd.in/eyfWKsi
-
-➤ Complete SQL Ebook
-https://lnkd.in/epkMQEm
-
-➤ 101 NLP Exercises
-https://lnkd.in/e65DvZP
+    - Data Science Skill Checklist
+      https://lnkd.in/e2KR3qm
+    - Master Machine Learning Algorithms
+      https://lnkd.in/eewDyUE
+    - Step by Step Guide to Data Cleaning in Pandas
+      https://lnkd.in/eyfWKsi
+    - Complete SQL Ebook
+      https://lnkd.in/epkMQEm
+    - 101 NLP Exercises
+      https://lnkd.in/e65DvZP
 
 49. Kaggle 
     - Tricks: https://www.dataquest.io/blog/kaggle-tips-tricks/
