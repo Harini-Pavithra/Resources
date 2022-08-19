@@ -82,6 +82,8 @@
 69. ML Roadmap: https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
 70. DS and ML books: https://acems.org.au/data-science-machine-learning-book-available-download
 71. ML with R: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0151EN+2017/course/
+72. 30DaysOfML: https://www.kaggle.com/thirty-days-of-ml
+73. AWS Re-Invent: https://reinvent.awsevents.com/register/?trk=direct
 
 
 ## Cloud
@@ -140,7 +142,7 @@
 
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
-
+2. IOT Project: https://www.balena.io/
 
 ## Free Courses 
 1. Skillup free online courses: https://www.simplilearn.com/skillup-free-online-courses
@@ -149,6 +151,10 @@
 4. https://www.edyoda.com/
 5. Free Bootcamp: https://www.classcentral.com/report/javascript-and-webdev-bootcamps/
 6. Resources for Allies in Tech: https://mailchi.mp/cf4c70809792/info-for-allies
+7. 52 Weeks Python: https://courses.davidbombal.com/p/quokka
+8. IT Training: https://davidbombal.com/
+9. Open Source game about learning GIT: https://ohmygit.org/
+
 
 ## Hackathon
 1. The home for Hackathons: https://devpost.com/
@@ -167,6 +173,13 @@
 8. How to start learning DSA: https://www.geeksforgeeks.org/how-to-start-learning-dsa/
 9. Salary Band: https://faangpath.com/blog/faang-companies-salary-bands/
 10. Resume Builder: https://flowcv.com/
+11. Career: https://www.odinschool.com/?utm_source=trickyman&utm_medium=youtube&utm_campaign=influmark
+12. Optimizing Your LinkedIn for Maximum Opportunities: https://podcast.app/optimizing-your-linkedin-for-maximum-opportunities-with-donna-serdula-e140472121/?utm_source=ios&utm_medium=share
+13. Skill Assessment Test: https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+
+## Open Source
+1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
+2. Open Source Confernece: https://www.allthingsopen.org/
 
 ## Scholarships
 1. The Linux Foundation Training (LiFT) Scholarship Program
@@ -295,6 +308,7 @@
 18. AI: https://news.harvard.edu/gazette/story/2020/12/are-humans-really-the-best-role-models-for-a-robot/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_191
 19. ML with Microcontrollers: https://hackaday.com/2020/12/04/remoticon-video-how-to-use-machine-learning-with-microcontrollers/
 20. Skills Intelligence: https://workera.ai/
+
 
 
 ## Website for remote work:
