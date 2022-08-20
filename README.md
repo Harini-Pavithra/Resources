@@ -77,17 +77,19 @@
 64. ML Resources: https://github.com/HeLsEroC/awesome-resources
 65. Bertelsmann AI Track Resources: https://airtable.com/shrkZQirGiyfdi9pG/tbltMRekRoCX9jOuZ
 66. Live ML course: https://github.com/roboticcam/machine-learning-notes?fbclid=IwAR0wUVCDpWUMTrlNuBEzwYA9n0dNk7m2hFi6g-_yonSfw9Jh-Jn9Huua-mY
-67. Data Science Tutorials: https://data-flair.training/blogs/data-science-tutorials-home/?fbclid=IwAR3YgskTqHNpKnr3p1MOL9iofl4fROXqV12RRvpT1XHn-KsPBwdtO8V3ZR0
+67. Advance your career with AI and Machine Learning: https://content.techgig.com/upskilling-at-techgig/advance-your-career-with-ai-and-machine-learning/articleshow/84474732.cms
 68. Machine Learning Glossary: https://developers.google.com/machine-learning/glossary
 69. ML Roadmap: https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva
 70. DS and ML books: https://acems.org.au/data-science-machine-learning-book-available-download
 71. ML with R: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+ML0151EN+2017/course/
 72. 30DaysOfML: https://www.kaggle.com/thirty-days-of-ml
 73. AWS Re-Invent: https://reinvent.awsevents.com/register/?trk=direct
-
+74. Grow your ML skills with free offer from Coursera: https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-ml-academy-with-free-training?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy21q3-googlecloud-blog-ai-infeed-no&utm_content=-&utm_term=-
+75. ML Zoomcamp: https://docs.google.com/document/d/e/2PACX-1vQUHn2ao5YbGgvDiKJup6VXfzFqEGWm7wJGqgVTn1xUignN1doTuzHWmg5HbdselVbjbSkOdb43Ktmp/pub
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
+2. To know about what's free in every month: https://acloudguru.com/blog/news
 
 ## Coding 
 1. Codebar: https://codebar.io/
@@ -134,6 +136,8 @@
    - 2.8 Data Science - IBM: https://lnkd.in/gKcATmF
    - 2.9 Data Science - Johns Hopkins University: https://lnkd.in/gAmaVhB
    - 2.10 Artificial Intelligence - Andrew Ng: https://lnkd.in/gWfK4qa
+3. Data Science Tutorials: https://data-flair.training/blogs/data-science-tutorials-home/?fbclid=IwAR3YgskTqHNpKnr3p1MOL9iofl4fROXqV12RRvpT1XHn-KsPBwdtO8V3ZR0
+4. Summer challenge: https://www.datacamp.com/summerchallenge
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -153,11 +157,15 @@
 6. Resources for Allies in Tech: https://mailchi.mp/cf4c70809792/info-for-allies
 7. 52 Weeks Python: https://courses.davidbombal.com/p/quokka
 8. IT Training: https://davidbombal.com/
-9. Open Source game about learning GIT: https://ohmygit.org/
+9. 
 
+## Git
+1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
+2. Open Source game about learning GIT: https://ohmygit.org/
 
 ## Hackathon
 1. The home for Hackathons: https://devpost.com/
+2. Hackerearth: https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
@@ -184,6 +192,7 @@
 ## Scholarships
 1. The Linux Foundation Training (LiFT) Scholarship Program
 2. Udacity Scholarships: https://www.udacity.com/scholarships
+3. Google Scholarships: https://buildyourfuture.withgoogle.com/scholarships
 
 ## Top 10 Concepts/Sites
 1. TOP 10 SQL Concepts for Job Interview
@@ -308,8 +317,8 @@
 18. AI: https://news.harvard.edu/gazette/story/2020/12/are-humans-really-the-best-role-models-for-a-robot/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_191
 19. ML with Microcontrollers: https://hackaday.com/2020/12/04/remoticon-video-how-to-use-machine-learning-with-microcontrollers/
 20. Skills Intelligence: https://workera.ai/
-
-
+21. How to Be Awesome at Your Job: https://podcast.app/how-to-be-awesome-at-your-job-p128869/?utm_source=ios&utm_medium=share
+22. 
 
 ## Website for remote work:
 
@@ -347,3 +356,4 @@
 11. Girls x Tech: https://www.ivolunteer.in/organization/0017F00002DVfvyQAD
 12. Women Scholarship: https://ingressive.org/
 13. The Linux Foundation Training (LiFT) Scholarship Program
+14. The girl code: http://thegirlcode.co/build
