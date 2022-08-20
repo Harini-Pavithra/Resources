@@ -104,7 +104,7 @@
 10. 30DaysOfCoding: https://github.com/30DaysOfCoding
 11. Concepts to understand: procedural decomposition, stepwise refinement, top down design.
 12. Advent of Code: https://adventofcode.com/2020
-
+13. Lead coding: https://leadcoding.in/
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
