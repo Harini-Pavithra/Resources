@@ -201,6 +201,10 @@
 1. The Linux Foundation Training (LiFT) Scholarship Program
 2. Udacity Scholarships: https://www.udacity.com/scholarships
 3. Google Scholarships: https://buildyourfuture.withgoogle.com/scholarships
+4. 70% DISCOUNT on our #5G Certification Program courses & 60% on exams for University students, faculty & admin!
+IMPORTANT NOTICE: The Summer Splash discount will be applied to University students, facility and administration when registering with a valid university email address. (Promotion ends on 30th September 2021)
+   - https://nokia.training.com/
+   - disclaimer: please read the privacy policy of nokia training website.
 
 ## Top 10 Concepts/Sites
 1. TOP 10 SQL Concepts for Job Interview
