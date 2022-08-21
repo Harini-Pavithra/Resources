@@ -156,7 +156,7 @@
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
 2. IOT Project: https://www.balena.io/
 
-## Free Courses 
+## Free Courses/Trainings
 1. Skillup free online courses: https://www.simplilearn.com/skillup-free-online-courses
 2. Free Monthly Learning Resources: https://github.com/josepraveen/free_monthly_learning_resources/tree/main/resources
 3. Skillshare for creative clases: https://www.skillshare.com/
@@ -165,7 +165,7 @@
 6. Resources for Allies in Tech: https://mailchi.mp/cf4c70809792/info-for-allies
 7. 52 Weeks Python: https://courses.davidbombal.com/p/quokka
 8. IT Training: https://davidbombal.com/
-9. 
+9. Microsoft Virtual Days: https://www.microsoft.com/en-us/trainingdays
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
