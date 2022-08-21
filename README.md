@@ -86,10 +86,17 @@
 73. AWS Re-Invent: https://reinvent.awsevents.com/register/?trk=direct
 74. Grow your ML skills with free offer from Coursera: https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-ml-academy-with-free-training?utm_source=linkedin&utm_medium=unpaidsoc&utm_campaign=fy21q3-googlecloud-blog-ai-infeed-no&utm_content=-&utm_term=-
 75. ML Zoomcamp: https://docs.google.com/document/d/e/2PACX-1vQUHn2ao5YbGgvDiKJup6VXfzFqEGWm7wJGqgVTn1xUignN1doTuzHWmg5HbdselVbjbSkOdb43Ktmp/pub
+76. 100+ ML snd DL Blogs: https://www.theinsaneapp.com/2021/04/top-machine-learning-blogs-to-follow-in-2021.html
+77. Free E-books: https://www.kdnuggets.com/2020/12/15-free-data-science-machine-learning-statistics-ebooks-2021.html
+78. ML Books PDF: https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
+79. 100+ ML Cheatsheets: https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
+80. 
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
 2. To know about what's free in every month: https://acloudguru.com/blog/news
+3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
+
 
 ## Coding 
 1. Codebar: https://codebar.io/
@@ -138,6 +145,7 @@
    - 2.10 Artificial Intelligence - Andrew Ng: https://lnkd.in/gWfK4qa
 3. Data Science Tutorials: https://data-flair.training/blogs/data-science-tutorials-home/?fbclid=IwAR3YgskTqHNpKnr3p1MOL9iofl4fROXqV12RRvpT1XHn-KsPBwdtO8V3ZR0
 4. Summer challenge: https://www.datacamp.com/summerchallenge
+5. 100+ Data Science books: https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
