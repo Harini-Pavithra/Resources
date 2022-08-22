@@ -90,7 +90,8 @@
 77. Free E-books: https://www.kdnuggets.com/2020/12/15-free-data-science-machine-learning-statistics-ebooks-2021.html
 78. ML Books PDF: https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
 79. 100+ ML Cheatsheets: https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
-80. 
+80. AI Conclave: https://analyticsdrift.com/amazon-web-services-aws-is-hosting-a-free-ai-conclave/?fbclid=IwAR0gla_H4SL9ff9Vej_2h26ivNOG9_TjrFfZzE1u9syoymgtj6R8hMETZW4
+81. 
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -146,6 +147,7 @@
 3. Data Science Tutorials: https://data-flair.training/blogs/data-science-tutorials-home/?fbclid=IwAR3YgskTqHNpKnr3p1MOL9iofl4fROXqV12RRvpT1XHn-KsPBwdtO8V3ZR0
 4. Summer challenge: https://www.datacamp.com/summerchallenge
 5. 100+ Data Science books: https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
+6. Top Data Science Projects: https://technologynous.com/top-7-data-science-projects-to-put-on-your-resume-2020/?fbclid=IwAR3v4RVKiNsswXcvDo4K31KS8VLaXJAbemMvre8BM3cxChJc_QWz_cUcPPk
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -330,7 +332,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 19. ML with Microcontrollers: https://hackaday.com/2020/12/04/remoticon-video-how-to-use-machine-learning-with-microcontrollers/
 20. Skills Intelligence: https://workera.ai/
 21. How to Be Awesome at Your Job: https://podcast.app/how-to-be-awesome-at-your-job-p128869/?utm_source=ios&utm_medium=share
-22. 
+22. Ask you questions to get the answers: https://demo.deeppavlov.ai/#/en/textqa
 
 ## Website for remote work:
 
