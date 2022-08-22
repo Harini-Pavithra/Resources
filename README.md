@@ -98,7 +98,7 @@
 3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
 
 
-## Coding 
+## Coding and Data Structures 
 1. Codebar: https://codebar.io/
 2. 30daysofcoding: https://www.blocktrain.info/
 3. Code for Cause: https://codeforcause.org/courses
