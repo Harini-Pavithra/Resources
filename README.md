@@ -91,7 +91,9 @@
 78. ML Books PDF: https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
 79. 100+ ML Cheatsheets: https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
 80. AI Conclave: https://analyticsdrift.com/amazon-web-services-aws-is-hosting-a-free-ai-conclave/?fbclid=IwAR0gla_H4SL9ff9Vej_2h26ivNOG9_TjrFfZzE1u9syoymgtj6R8hMETZW4
-81. 
+81. CNN Explainer: https://poloclub.github.io/cnn-explainer/
+82. Dynamic Optimization: https://apmonitor.com/do/
+83. The Incredible Pytorch: https://github.com/ritchieng/the-incredible-pytorch
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -198,6 +200,9 @@
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
 2. Open Source Confernece: https://www.allthingsopen.org/
+
+## Product Management
+1. Product Management Library: https://productnotion.co/
 
 ## Scholarships
 1. The Linux Foundation Training (LiFT) Scholarship Program
@@ -333,6 +338,8 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 20. Skills Intelligence: https://workera.ai/
 21. How to Be Awesome at Your Job: https://podcast.app/how-to-be-awesome-at-your-job-p128869/?utm_source=ios&utm_medium=share
 22. Ask you questions to get the answers: https://demo.deeppavlov.ai/#/en/textqa
+23. ML Journal: https://arxiv.org/pdf/2101.03989.pdf
+24. About ChatBots: https://www.popularmechanics.com/technology/robots/a35165370/microsoft-resurrects-the-dead-chatbots/?fbclid=IwAR3HJGi2rQdb3sVPzYS2kA3YigX8Kri5Py2dChpKdIFZu-CB-_bqcsPv7AY
 
 ## Website for remote work:
 
