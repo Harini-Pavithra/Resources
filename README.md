@@ -116,6 +116,10 @@
 12. Advent of Code: https://adventofcode.com/2020
 13. Lead coding: https://leadcoding.in/
 
+## Computer Science
+1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
+2. 
+
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
 
@@ -170,6 +174,7 @@
 7. 52 Weeks Python: https://courses.davidbombal.com/p/quokka
 8. IT Training: https://davidbombal.com/
 9. Microsoft Virtual Days: https://www.microsoft.com/en-us/trainingdays
+10. Open University Courses: https://github.com/kabartay/OpenUnivCourses
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -196,6 +201,7 @@
 11. Career: https://www.odinschool.com/?utm_source=trickyman&utm_medium=youtube&utm_campaign=influmark
 12. Optimizing Your LinkedIn for Maximum Opportunities: https://podcast.app/optimizing-your-linkedin-for-maximum-opportunities-with-donna-serdula-e140472121/?utm_source=ios&utm_medium=share
 13. Skill Assessment Test: https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
+14. Javascript Interview Questions: https://github.com/lydiahallie/javascript-questions
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
@@ -340,6 +346,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 22. Ask you questions to get the answers: https://demo.deeppavlov.ai/#/en/textqa
 23. ML Journal: https://arxiv.org/pdf/2101.03989.pdf
 24. About ChatBots: https://www.popularmechanics.com/technology/robots/a35165370/microsoft-resurrects-the-dead-chatbots/?fbclid=IwAR3HJGi2rQdb3sVPzYS2kA3YigX8Kri5Py2dChpKdIFZu-CB-_bqcsPv7AY
+25. Decision making tool: https://activegraf.com/
 
 ## Website for remote work:
 
