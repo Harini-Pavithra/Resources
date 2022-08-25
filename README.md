@@ -94,6 +94,8 @@
 81. CNN Explainer: https://poloclub.github.io/cnn-explainer/
 82. Dynamic Optimization: https://apmonitor.com/do/
 83. The Incredible Pytorch: https://github.com/ritchieng/the-incredible-pytorch
+84. Computer Vision : https://blog.roboflow.com/intro-to-computer-vision/
+85. 18 Machine Learning Best Practices: https://rubikscode.net/2021/10/18/18-machine-learning-best-practices/
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -175,6 +177,7 @@
 8. IT Training: https://davidbombal.com/
 9. Microsoft Virtual Days: https://www.microsoft.com/en-us/trainingdays
 10. Open University Courses: https://github.com/kabartay/OpenUnivCourses
+11. Software and data skills training: https://www.korbit.ai/
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -209,6 +212,7 @@
 
 ## Product Management
 1. Product Management Library: https://productnotion.co/
+2. Free Online Resources for Product Managers: https://productschool.com/free-product-management-resources/
 
 ## Scholarships
 1. The Linux Foundation Training (LiFT) Scholarship Program
@@ -347,6 +351,9 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 23. ML Journal: https://arxiv.org/pdf/2101.03989.pdf
 24. About ChatBots: https://www.popularmechanics.com/technology/robots/a35165370/microsoft-resurrects-the-dead-chatbots/?fbclid=IwAR3HJGi2rQdb3sVPzYS2kA3YigX8Kri5Py2dChpKdIFZu-CB-_bqcsPv7AY
 25. Decision making tool: https://activegraf.com/
+26. 37% OF AI Techonologies are Adopted: https://www.analyticsinsight.net/37-of-ai-technologies-are-adopted-by-high-tech-industry/
+27. AI Milestone: https://www.digitaltrends.com/web/2020-ai-major-milestones/
+28. Project Canvas: https://projectcanvas.dk/
 
 ## Website for remote work:
 
