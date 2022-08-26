@@ -96,6 +96,7 @@
 83. The Incredible Pytorch: https://github.com/ritchieng/the-incredible-pytorch
 84. Computer Vision : https://blog.roboflow.com/intro-to-computer-vision/
 85. 18 Machine Learning Best Practices: https://rubikscode.net/2021/10/18/18-machine-learning-best-practices/
+86. Tic Tac Toe: https://github.com/GantMan/tictactoe-ai-tfjs (https://www.tensorflowtictactoe.co/)
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -117,6 +118,7 @@
 11. Concepts to understand: procedural decomposition, stepwise refinement, top down design.
 12. Advent of Code: https://adventofcode.com/2020
 13. Lead coding: https://leadcoding.in/
+14. The Algorithms: https://github.com/TheAlgorithms
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
@@ -354,6 +356,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 26. 37% OF AI Techonologies are Adopted: https://www.analyticsinsight.net/37-of-ai-technologies-are-adopted-by-high-tech-industry/
 27. AI Milestone: https://www.digitaltrends.com/web/2020-ai-major-milestones/
 28. Project Canvas: https://projectcanvas.dk/
+29. 
 
 ## Website for remote work:
 
