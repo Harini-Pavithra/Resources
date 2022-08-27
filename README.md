@@ -97,6 +97,10 @@
 84. Computer Vision : https://blog.roboflow.com/intro-to-computer-vision/
 85. 18 Machine Learning Best Practices: https://rubikscode.net/2021/10/18/18-machine-learning-best-practices/
 86. Tic Tac Toe: https://github.com/GantMan/tictactoe-ai-tfjs (https://www.tensorflowtictactoe.co/)
+87. ML Zoomcamp: https://datatalks.club/courses/2021-winter-ml-zoomcamp.html
+88. ML Bookcamp: https://github.com/alexeygrigorev/mlbookcamp-code
+89. AI and ML projects with code: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+90. AI papers: https://github.com/louisfb01/Best_AI_paper_2020
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -122,7 +126,7 @@
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
-2. 
+2. CS Lectures: https://github.com/Developer-Y/cs-video-courses
 
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
@@ -158,6 +162,7 @@
 4. Summer challenge: https://www.datacamp.com/summerchallenge
 5. 100+ Data Science books: https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
 6. Top Data Science Projects: https://technologynous.com/top-7-data-science-projects-to-put-on-your-resume-2020/?fbclid=IwAR3v4RVKiNsswXcvDo4K31KS8VLaXJAbemMvre8BM3cxChJc_QWz_cUcPPk
+7. Data Science: https://github.com/ossu/data-science
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
