@@ -101,6 +101,8 @@
 88. ML Bookcamp: https://github.com/alexeygrigorev/mlbookcamp-code
 89. AI and ML projects with code: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 90. AI papers: https://github.com/louisfb01/Best_AI_paper_2020
+91. Speech and Language Processing: http://web.stanford.edu/~jurafsky/slp3/
+92. Math for ML: https://mml-book.github.io/book/mml-book.pdf
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -123,6 +125,7 @@
 12. Advent of Code: https://adventofcode.com/2020
 13. Lead coding: https://leadcoding.in/
 14. The Algorithms: https://github.com/TheAlgorithms
+15. Free Programming Books: https://github.com/EbookFoundation/free-programming-books
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
@@ -185,6 +188,8 @@
 9. Microsoft Virtual Days: https://www.microsoft.com/en-us/trainingdays
 10. Open University Courses: https://github.com/kabartay/OpenUnivCourses
 11. Software and data skills training: https://www.korbit.ai/
+12. Web Development: https://github.com/microsoft/Web-Dev-For-Beginners
+13. Rubiks Cube project in Python: https://github.com/VickneshB/RubiksCube
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -361,7 +366,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 26. 37% OF AI Techonologies are Adopted: https://www.analyticsinsight.net/37-of-ai-technologies-are-adopted-by-high-tech-industry/
 27. AI Milestone: https://www.digitaltrends.com/web/2020-ai-major-milestones/
 28. Project Canvas: https://projectcanvas.dk/
-29. 
+29. Advance Your Python Skills by Building a WhatsApp Chat Analyzer : https://betterprogramming.pub/https-medium-com-nityeshagarwal-whatsapp-chat-analyser-a-guided-project-7d21e033109d
 
 ## Website for remote work:
 
