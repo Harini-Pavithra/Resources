@@ -103,6 +103,7 @@
 90. AI papers: https://github.com/louisfb01/Best_AI_paper_2020
 91. Speech and Language Processing: http://web.stanford.edu/~jurafsky/slp3/
 92. Math for ML: https://mml-book.github.io/book/mml-book.pdf
+93. ML Bookcamp Homeworks: https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
