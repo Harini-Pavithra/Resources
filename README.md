@@ -104,6 +104,7 @@
 91. Speech and Language Processing: http://web.stanford.edu/~jurafsky/slp3/
 92. Math for ML: https://mml-book.github.io/book/mml-book.pdf
 93. ML Bookcamp Homeworks: https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks
+94. ML Crash course: https://developers.google.com/machine-learning/crash-course
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -171,13 +172,13 @@
 ## Developer Communities
 1. Morioh: https://morioh.com/
 2. Solve for Good: https://solveforgood.org/
-
-
+3. Made With ML: https://madewithml.com/
+4. Extension for the latest developer news: https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
 2. IOT Project: https://www.balena.io/
 
-## Free Courses/Trainings
+## Free Resources
 1. Skillup free online courses: https://www.simplilearn.com/skillup-free-online-courses
 2. Free Monthly Learning Resources: https://github.com/josepraveen/free_monthly_learning_resources/tree/main/resources
 3. Skillshare for creative clases: https://www.skillshare.com/
@@ -191,6 +192,7 @@
 11. Software and data skills training: https://www.korbit.ai/
 12. Web Development: https://github.com/microsoft/Web-Dev-For-Beginners
 13. Rubiks Cube project in Python: https://github.com/VickneshB/RubiksCube
+14. UsefulBooks: https://github.com/maheshcheetirala/usefulbooks
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
