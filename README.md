@@ -168,6 +168,13 @@
 5. 100+ Data Science books: https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
 6. Top Data Science Projects: https://technologynous.com/top-7-data-science-projects-to-put-on-your-resume-2020/?fbclid=IwAR3v4RVKiNsswXcvDo4K31KS8VLaXJAbemMvre8BM3cxChJc_QWz_cUcPPk
 7. Data Science: https://github.com/ossu/data-science
+8. 6 essential skills for a data scientist with resources:
+   - 6.1. SQLA powerful tool that helps you build a foundation for your data science career: https://sqlzoo.net/    https://lnkd.in/gJijs5v
+   - 6.2. StatisticsMath and Stats are the building blocks of Machine Learning algorithms: https://lnkd.in/gZMbtw9  https://lnkd.in/g5xUC9B
+   - 6.3. Machine learningYou should understand what is Machine learning and how it works: https://lnkd.in/g9K6FMM  http://course18.fast.ai/ml
+   - 6.4. Python programming: https://lnkd.in/g5XPJfRhttps://lnkd.in/gcq4yvy  https://lnkd.in/gQeSAmV
+   - 6.5. Data Visualisation: https://lnkd.in/gDsZNWY  https://lnkd.in/gvSXydk
+   - 6.6. Data Wrangling and Data Exploration: https://lnkd.in/gvqy-ha  https://lnkd.in/gfPitDG
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
