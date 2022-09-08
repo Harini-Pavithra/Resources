@@ -105,6 +105,21 @@
 92. Math for ML: https://mml-book.github.io/book/mml-book.pdf
 93. ML Bookcamp Homeworks: https://github.com/ayoub-berdeddouch/mlbookcamp-homeworks
 94. ML Crash course: https://developers.google.com/machine-learning/crash-course
+95. Statistical learning posts: https://docs.google.com/document/d/1aMTVwBV4RmxOAroScHtpcb6sY4gi_XXL1i2gqVlgiSo/mobilebasic
+96. Scholarship notes: 
+    - https://drive.google.com/drive/folders/1gvCSgTYc72sDOMd9FmMrX2_qXgmNxqT1
+    - https://www.notion.so/Microsoft-Azure-Machine-Learning-Foundation-Course-Study-Resources-9633185de9984dcc9bd0cfe31e69b59a
+    - https://github.com/solliancenet/udacity-intro-to-ml-labs
+    - https://drive.google.com/file/d/1sZ8V3r-ecwK5w1Gd6YSXBWZEDKxdry3M/view
+97. 10 Books Data Scientists Should Read During Lockdown: https://towardsdatascience.com/10-books-data-scientists-should-read-during-lockdown-f49b68fad650
+98. ML courses by Andrew NG: https://www.deeplearning.ai/courses/machine-learning-specialization/
+99. ML Mastery: https://machinelearningmastery.com/
+100. Learning from Data: https://work.caltech.edu/telecourse
+101. ML University: https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists
+102. Python Library: https://github.com/d6t/d6tflow
+103. DL with CV: https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
+104. Intro to DL: http://introtodeeplearning.com/
+105. Free Book on Ensemble Learning with Python: https://www.packtpub.com/free-learning
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -377,6 +392,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 27. AI Milestone: https://www.digitaltrends.com/web/2020-ai-major-milestones/
 28. Project Canvas: https://projectcanvas.dk/
 29. Advance Your Python Skills by Building a WhatsApp Chat Analyzer : https://betterprogramming.pub/https-medium-com-nityeshagarwal-whatsapp-chat-analyser-a-guided-project-7d21e033109d
+30. Why deep learning won’t give us level 5 self-driving cars: https://bdtechtalks.com/2020/07/29/self-driving-tesla-car-deep-learning/
 
 ## Website for remote work:
 
