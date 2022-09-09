@@ -190,6 +190,7 @@
    - 6.4. Python programming: https://lnkd.in/g5XPJfRhttps://lnkd.in/gcq4yvy  https://lnkd.in/gQeSAmV
    - 6.5. Data Visualisation: https://lnkd.in/gDsZNWY  https://lnkd.in/gvSXydk
    - 6.6. Data Wrangling and Data Exploration: https://lnkd.in/gvqy-ha  https://lnkd.in/gfPitDG
+9. Data Science Labs: https://www.wqu.edu/programs/applied-ds-lab/
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -393,6 +394,8 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 28. Project Canvas: https://projectcanvas.dk/
 29. Advance Your Python Skills by Building a WhatsApp Chat Analyzer : https://betterprogramming.pub/https-medium-com-nityeshagarwal-whatsapp-chat-analyser-a-guided-project-7d21e033109d
 30. Why deep learning won’t give us level 5 self-driving cars: https://bdtechtalks.com/2020/07/29/self-driving-tesla-car-deep-learning/
+31. Improve your focus and productivity with this Python tool: https://opensource.com/article/20/8/python-concentration
+32. Can AI Now Defer Human Decisions?: https://analyticsindiamag.com/can-ai-now-defer-human-decisions/
 
 ## Website for remote work:
 
