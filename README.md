@@ -197,6 +197,7 @@
 2. Solve for Good: https://solveforgood.org/
 3. Made With ML: https://madewithml.com/
 4. Extension for the latest developer news: https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied
+
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
 2. IOT Project: https://www.balena.io/
@@ -243,6 +244,9 @@
 12. Optimizing Your LinkedIn for Maximum Opportunities: https://podcast.app/optimizing-your-linkedin-for-maximum-opportunities-with-donna-serdula-e140472121/?utm_source=ios&utm_medium=share
 13. Skill Assessment Test: https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes
 14. Javascript Interview Questions: https://github.com/lydiahallie/javascript-questions
+15. General Interview Resources
+    - 👉 www.glassdoor.com
+    - 👉 Catalog of all FAANG interview information on Rooftop Slushie - https://lnkd.in/gQDrdHYb and https://lnkd.in/gPts73uV
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
@@ -260,8 +264,13 @@
 IMPORTANT NOTICE: The Summer Splash discount will be applied to University students, facility and administration when registering with a valid university email address. (Promotion ends on 30th September 2021)
    - https://nokia.training.com/
    - disclaimer: please read the privacy policy of nokia training website.
+   
+## System Design 
+1. System Design Template - https://lnkd.in/gjyhxYqn
+2. System Design Primer - https://lnkd.in/g4-Aryrf
+3. Grokking the System Design Interview - https://lnkd.in/gMZthDhA and https://lnkd.in/grM2aB2w
 
-## Top 10 Concepts/Sites
+## Top 10 Resources
 1. TOP 10 SQL Concepts for Job Interview
    - Aggregate Functions (sum/avg/max/min)
    - Group By and Order By
@@ -361,8 +370,62 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
    - Improve Your Excel
    - Excel Easy
    - Excel Jet
-
-   
+10. TOP 10 Deep Learning Models for Data Science
+    - RNN
+    - CNN
+    - LSTM
+    - GAN
+    - BSTS
+    - Prophet
+    - AutoEncoders
+    - Boltzmann Machines
+    - BERT
+    - GP
+11. TOP 10 Machine Learning Models for Data Science
+    - Linear Regression
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+    - SVM
+    - GBM
+    - XGBoost
+    - KNN
+    - Clustering
+    - PCA
+12. TOP 10 R Packages for Data Science
+    - dplyr
+    - data.table
+    - H2O
+    - mlr
+    - XGBoost
+    - Caret
+    - LightGBM
+    - e1071
+    - rpart 
+    - nnet
+13. TOP 10 Python Packages for Data Science
+    - Pandas
+    - Numpy
+    - Scipy
+    - sklearn
+    - Tensorflow
+    - Keras
+    - PyTorch
+    - NLTK
+    - Spacy
+    - Gensim
+14. TOP 10 Tools for Data Science
+    - Python
+    - R
+    - SQL
+    - Java
+    - Scala
+    - Julia
+    - Matlab 
+    - SPSS
+    - SAS
+    - Excel   
+    
 ## Useful Reads and Links
 1. Tech Blog 👉 https://skillcrush.com/blog/
 2. Learn Web Scraping using Python in under 5 minutes 👉 https://medium.com/@kaustumbhjaiswal7/learn-web-scraping-using-python-in-under-5-minutes-36a7d4d6e1e7
