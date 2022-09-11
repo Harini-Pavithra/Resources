@@ -143,6 +143,14 @@
 13. Lead coding: https://leadcoding.in/
 14. The Algorithms: https://github.com/TheAlgorithms
 15. Free Programming Books: https://github.com/EbookFoundation/free-programming-books
+16. Complete Introduction to the 30 Most Essential Data Structures & Algorithms: https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+17. Data Structures & Algorithms in Python: https://towardsdatascience.com/data-structures-algorithms-in-python-68c8dbb19c90
+18. 8 Common Data Structures Every Programmer Should Know: https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
+19. An Introduction to Big O in Swift: https://www.donnywals.com/an-introduction-to-big-o-in-swift/
+20. Learn DS and Algorithms: https://www.programiz.com/dsa
+21. Complete Beginner’s Guide to Big O Notation: https://www.youtube.com/watch?v=kS_gr2_-ws8
+22. Common Python Data Structures: https://realpython.com/python-data-structures/
+23. The Open Sources Computer Science Degree: https://github.com/raywenderlich/swift-algorithm-club
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
