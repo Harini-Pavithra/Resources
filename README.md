@@ -151,6 +151,18 @@
 21. Complete Beginner’s Guide to Big O Notation: https://www.youtube.com/watch?v=kS_gr2_-ws8
 22. Common Python Data Structures: https://realpython.com/python-data-structures/
 23. The Open Sources Computer Science Degree: https://github.com/raywenderlich/swift-algorithm-club
+24. Intro to Dynamic Programming: Data Structures and Algorithms - https://lnkd.in/g5ZMds-W
+25. Problem Solving with DSA using Python - https://lnkd.in/gNkfiC_Y
+26. Data Structures Easy to Advanced Course - https://lnkd.in/gCBcXv3H
+27. System Design Interview: Step by Step Guide - https://lnkd.in/gBPxnmiD
+28. CS50 course - https://lnkd.in/geJ_r7gr
+29. Practice websites 
+    - https://lnkd.in/gdimkcTq
+    - https://lnkd.in/gDzvBAbK
+    - https://coderbyte.com/
+    - https://leetcode.com/
+    - http://www.codewars.com/
+    - https://www.pramp.com/
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
