@@ -125,8 +125,8 @@
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
 2. To know about what's free in every month: https://acloudguru.com/blog/news
 3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
-
-
+4. Deploy projects: https://vercel.com/
+5. Free tool to deploy: https://www.netlify.com/
 ## Coding and Data Structures 
 1. Codebar: https://codebar.io/
 2. 30daysofcoding: https://www.blocktrain.info/
@@ -168,6 +168,7 @@
     - Leetcode Sheet by Fraz : Best set of problems for Leetcode (https://lnkd.in/dp4pU8mK)
     - SDE Sheet by Raj Vikramaditya : Everyone knows this, so added on 3rd number :P (https://lnkd.in/dM3HC9NH)
     - DSA Cracker by Love Babbar : Exhaustive set of problems. (https://lnkd.in/dRMyJTU)
+31. 30DaysOfCoding: https://www.30dayscoding.com/
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
@@ -246,6 +247,7 @@
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
 2. Open Source game about learning GIT: https://ohmygit.org/
+3. Git Best Practices: https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/
 
 ## Hackathon
 1. The home for Hackathons: https://devpost.com/
@@ -511,7 +513,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 30. Why deep learning won’t give us level 5 self-driving cars: https://bdtechtalks.com/2020/07/29/self-driving-tesla-car-deep-learning/
 31. Improve your focus and productivity with this Python tool: https://opensource.com/article/20/8/python-concentration
 32. Can AI Now Defer Human Decisions?: https://analyticsindiamag.com/can-ai-now-defer-human-decisions/
-
+33. PlanetofSuccess: http://www.planetofsuccess.com/
 ## Website for remote work:
 
 ⚡ remoteok.com
