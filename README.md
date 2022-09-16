@@ -174,6 +174,9 @@
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
 2. CS Lectures: https://github.com/Developer-Y/cs-video-courses
 
+## Content Creation
+1. Keyword Search: https://lsigraph.com/deal/
+
 ## Cybersecurity 
 1. Advent of Cyber 3: https://tryhackme.com/room/adventofcyber3
 
@@ -243,6 +246,7 @@
 12. Web Development: https://github.com/microsoft/Web-Dev-For-Beginners
 13. Rubiks Cube project in Python: https://github.com/VickneshB/RubiksCube
 14. UsefulBooks: https://github.com/maheshcheetirala/usefulbooks
+15. SQL: https://8weeksqlchallenge.com/getting-started/
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -278,6 +282,12 @@
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
 2. Open Source Confernece: https://www.allthingsopen.org/
+
+## Personal Development
+1. Personal Development: https://vaishalilambe.club/
+
+## Portfolio
+1. OnTribe: https://www.ontribe.in/
 
 ## Product Management
 1. Product Management Library: https://productnotion.co/
@@ -551,3 +561,4 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 12. Women Scholarship: https://ingressive.org/
 13. The Linux Foundation Training (LiFT) Scholarship Program
 14. The girl code: http://thegirlcode.co/build
+15. Girls script: https://gwoc.girlscript.tech/
