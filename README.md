@@ -120,6 +120,8 @@
 103. DL with CV: https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r
 104. Intro to DL: http://introtodeeplearning.com/
 105. Free Book on Ensemble Learning with Python: https://www.packtpub.com/free-learning
+106. Chrome Dragon Game: https://datamahadev.com/creating-chrome-dragon-game-using-your-body-computer-vision/
+107. Create Emojis using DL: https://data-flair.training/blogs/create-emoji-with-deep-learning/
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -220,6 +222,7 @@
    - 6.5. Data Visualisation: https://lnkd.in/gDsZNWY  https://lnkd.in/gvSXydk
    - 6.6. Data Wrangling and Data Exploration: https://lnkd.in/gvqy-ha  https://lnkd.in/gfPitDG
 9. Data Science Labs: https://www.wqu.edu/programs/applied-ds-lab/
+10. Data Infinity: https://data-science-infinity.teachable.com/p/mini-course-introduction-to-data-science-machine-learning
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -247,6 +250,8 @@
 13. Rubiks Cube project in Python: https://github.com/VickneshB/RubiksCube
 14. UsefulBooks: https://github.com/maheshcheetirala/usefulbooks
 15. SQL: https://8weeksqlchallenge.com/getting-started/
+16. Learn Typing for free: https://www.typing.com/
+17. Free certification courses: https://eduexplore4all.blogspot.com/2021/06/isro-launches-free-mldl-certificate.html?m=1
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -301,6 +306,7 @@
 IMPORTANT NOTICE: The Summer Splash discount will be applied to University students, facility and administration when registering with a valid university email address. (Promotion ends on 30th September 2021)
    - https://nokia.training.com/
    - disclaimer: please read the privacy policy of nokia training website.
+5. Top AI fellowships: https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c
    
 ## System Design 
 1. System Design Template - https://lnkd.in/gjyhxYqn
