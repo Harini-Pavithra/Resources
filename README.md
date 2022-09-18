@@ -283,6 +283,7 @@
 15. General Interview Resources
     - 👉 www.glassdoor.com
     - 👉 Catalog of all FAANG interview information on Rooftop Slushie - https://lnkd.in/gQDrdHYb and https://lnkd.in/gPts73uV
+16. Interview Preparations: https://faangpath.com/
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
