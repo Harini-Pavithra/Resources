@@ -122,6 +122,7 @@
 105. Free Book on Ensemble Learning with Python: https://www.packtpub.com/free-learning
 106. Chrome Dragon Game: https://datamahadev.com/creating-chrome-dragon-game-using-your-body-computer-vision/
 107. Create Emojis using DL: https://data-flair.training/blogs/create-emoji-with-deep-learning/
+108. AI community: https://huggingface.co/
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -252,6 +253,7 @@
 15. SQL: https://8weeksqlchallenge.com/getting-started/
 16. Learn Typing for free: https://www.typing.com/
 17. Free certification courses: https://eduexplore4all.blogspot.com/2021/06/isro-launches-free-mldl-certificate.html?m=1
+18. Aviatrix: https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-resources
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -284,6 +286,7 @@
     - 👉 www.glassdoor.com
     - 👉 Catalog of all FAANG interview information on Rooftop Slushie - https://lnkd.in/gQDrdHYb and https://lnkd.in/gPts73uV
 16. Interview Preparations: https://faangpath.com/
+17. Profile pic maker: https://pfpmaker.com/
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
@@ -531,6 +534,8 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 31. Improve your focus and productivity with this Python tool: https://opensource.com/article/20/8/python-concentration
 32. Can AI Now Defer Human Decisions?: https://analyticsindiamag.com/can-ai-now-defer-human-decisions/
 33. PlanetofSuccess: http://www.planetofsuccess.com/
+34. Actionable Steps for Managing 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
+
 ## Website for remote work:
 
 ⚡ remoteok.com
