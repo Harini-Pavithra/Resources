@@ -123,6 +123,10 @@
 106. Chrome Dragon Game: https://datamahadev.com/creating-chrome-dragon-game-using-your-body-computer-vision/
 107. Create Emojis using DL: https://data-flair.training/blogs/create-emoji-with-deep-learning/
 108. AI community: https://huggingface.co/
+109. AI fellowship program: https://insightfellows.com/ai
+110. Microsoft Training days: https://www.microsoft.com/en-gb/events/training-days/#microsoft-azure
+111. AI platform: https://insideaiml.com/job-assistance
+112. AI Fellowship programs: https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -130,6 +134,8 @@
 3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
 4. Deploy projects: https://vercel.com/
 5. Free tool to deploy: https://www.netlify.com/
+6. 30DaysOfCloud: https://dschit.com/thirtydayscloud.html#tracks
+
 ## Coding and Data Structures 
 1. Codebar: https://codebar.io/
 2. 30daysofcoding: https://www.blocktrain.info/
