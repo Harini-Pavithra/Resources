@@ -127,6 +127,7 @@
 110. Microsoft Training days: https://www.microsoft.com/en-gb/events/training-days/#microsoft-azure
 111. AI platform: https://insideaiml.com/job-assistance
 112. AI Fellowship programs: https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c
+113. 100 days of ML: https://github.com/rohit077/100_Days_of_ML
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -182,6 +183,7 @@
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
 2. CS Lectures: https://github.com/Developer-Y/cs-video-courses
+3. Katacode: https://www.oreilly.com/online-learning/leveraging-katacoda-technology.html
 
 ## Content Creation
 1. Keyword Search: https://lsigraph.com/deal/
@@ -236,6 +238,7 @@
 2. Solve for Good: https://solveforgood.org/
 3. Made With ML: https://madewithml.com/
 4. Extension for the latest developer news: https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied
+5. Google Developers Community: https://developers.google.com/community
 
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
@@ -269,6 +272,7 @@
 ## Hackathon
 1. The home for Hackathons: https://devpost.com/
 2. Hackerearth: https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/
+3. PlantYourCode: https://plantyourcode.com
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
@@ -293,6 +297,7 @@
     - 👉 Catalog of all FAANG interview information on Rooftop Slushie - https://lnkd.in/gQDrdHYb and https://lnkd.in/gPts73uV
 16. Interview Preparations: https://faangpath.com/
 17. Profile pic maker: https://pfpmaker.com/
+18. Recruitment Team: https://www.facet.net/
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
