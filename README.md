@@ -232,6 +232,7 @@
    - 6.6. Data Wrangling and Data Exploration: https://lnkd.in/gvqy-ha  https://lnkd.in/gfPitDG
 9. Data Science Labs: https://www.wqu.edu/programs/applied-ds-lab/
 10. Data Infinity: https://data-science-infinity.teachable.com/p/mini-course-introduction-to-data-science-machine-learning
+11. Data Science Infinity: https://data-science-infinity.teachable.com/
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -263,6 +264,8 @@
 16. Learn Typing for free: https://www.typing.com/
 17. Free certification courses: https://eduexplore4all.blogspot.com/2021/06/isro-launches-free-mldl-certificate.html?m=1
 18. Aviatrix: https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-resources
+19. Library: https://actascientific.com/contact.php
+20. Python for Developers: https://m.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -305,6 +308,7 @@
 
 ## Personal Development
 1. Personal Development: https://vaishalilambe.club/
+2. Productivity: https://www.inspiringleadershipnow.com/pomodoro-technique-vs-deep-work/
 
 ## Portfolio
 1. OnTribe: https://www.ontribe.in/
@@ -546,6 +550,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 32. Can AI Now Defer Human Decisions?: https://analyticsindiamag.com/can-ai-now-defer-human-decisions/
 33. PlanetofSuccess: http://www.planetofsuccess.com/
 34. Actionable Steps for Managing 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
+35. Safer Internet: https://1.1.1.1/
 
 ## Website for remote work:
 
@@ -585,3 +590,5 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 13. The Linux Foundation Training (LiFT) Scholarship Program
 14. The girl code: http://thegirlcode.co/build
 15. Girls script: https://gwoc.girlscript.tech/
+16. LevelUp: https://www.levelupapp.co/
+17. Iam Remarkable: https://iamremarkable.withgoogle.com/
