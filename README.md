@@ -128,6 +128,8 @@
 111. AI platform: https://insideaiml.com/job-assistance
 112. AI Fellowship programs: https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c
 113. 100 days of ML: https://github.com/rohit077/100_Days_of_ML
+114. Tensorflow Certification: https://themlco.com/tensorflow/
+115. AWS certification: https://aws.amazon.com/training/?trk=ps_a134p000006vdeTAAQ&trkCampaign=GLBL-FY21-TrainCert-Combined_PaidSearch&sc_channel=PS&sc_campaign=FY21-TrainCert-Combined_PaidSearch&sc_publisher=Google&sc_category=Training%20and%20Certification&sc_country=CA&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20training%20and%20certification&sc_content=Generic_exact&sc_matchtype=e&sc_segment=502617786875&sc_medium=TC-P%7CPS-GO%7CBrand%7CDesktop%7CAW%7CTraining%20and%20Certification%7CCombo%7CCA%7CEN%7CText%7Cxx%7CSEM%7CPMO20-00038&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&ef_id=Cj0KCQjw6-SDBhCMARIsAGbI7UjdXMChuEmUUD2-j8XnYXVklQdsT4KPqYV3lAxL3ww_fQUvs9fGmRoaAkdpEALw_wcB%3AG%3As&utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity%20AWS%20ML%20Foundations%20Course
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -179,6 +181,8 @@
     - SDE Sheet by Raj Vikramaditya : Everyone knows this, so added on 3rd number :P (https://lnkd.in/dM3HC9NH)
     - DSA Cracker by Love Babbar : Exhaustive set of problems. (https://lnkd.in/dRMyJTU)
 31. 30DaysOfCoding: https://www.30dayscoding.com/
+32. A2Z coding sheet: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+33. Coding practice for interviews: https://docs.google.com/document/d/1bvrEwJfwSjV5Wbt8nvTDr6eXx76Nw12kd33ly-ePyxk/mobilebasic
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
@@ -266,6 +270,7 @@
 18. Aviatrix: https://community.aviatrix.com/t/y4hh4ml/ace-associate-self-paced-learning-resources
 19. Library: https://actascientific.com/contact.php
 20. Python for Developers: https://m.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
+21. Scaler: https://www.scaler.com/event/hackx/?utm_source=Champion&utm_medium=B037&utm_campaign=brand_scaler_livemasterclass_champion_B037_Masterclass
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -326,7 +331,11 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
    - https://nokia.training.com/
    - disclaimer: please read the privacy policy of nokia training website.
 5. Top AI fellowships: https://towardsdatascience.com/top-ai-fellowship-programs-to-look-out-for-344af565824c
-   
+
+## Stock Market
+1. Stock market courses: https://www.elearnmarkets.com/
+2. Zerodha: https://zerodha.com/varsity/
+
 ## System Design 
 1. System Design Template - https://lnkd.in/gjyhxYqn
 2. System Design Primer - https://lnkd.in/g4-Aryrf
@@ -551,6 +560,8 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 33. PlanetofSuccess: http://www.planetofsuccess.com/
 34. Actionable Steps for Managing 5G Energy Consumption: https://www.vertiv.com/en-us/about/news-and-insights/articles/blog-posts/actionable-steps-for-managing-5g-energy-consumption/?utm_source=linkedin-paid&utm_medium=paid-social&utm_campaign=power-of-5g&utm_term=manage-your-5g-energy-consumption&utm_content=en_1200x628_sponsored-content_article-page
 35. Safer Internet: https://1.1.1.1/
+36. How to Google like a pro: https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
+37. SkillUp courses: https://in.skillup.online/
 
 ## Website for remote work:
 
