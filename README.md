@@ -183,6 +183,7 @@
 31. 30DaysOfCoding: https://www.30dayscoding.com/
 32. A2Z coding sheet: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 33. Coding practice for interviews: https://docs.google.com/document/d/1bvrEwJfwSjV5Wbt8nvTDr6eXx76Nw12kd33ly-ePyxk/mobilebasic
+34. Leetcode premium questions: https://github.com/imsubhamsingh/leetcode-premium
 
 ## Computer Science
 1. Entire Computer Science Curriculum in 1000 YouTube Videos: https://laconicml.com/computer-science-curriculum-youtube-videos/
