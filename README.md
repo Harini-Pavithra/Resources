@@ -307,6 +307,25 @@
 16. Interview Preparations: https://faangpath.com/
 17. Profile pic maker: https://pfpmaker.com/
 18. Recruitment Team: https://www.facet.net/
+19. Interview Questions:
+    - Google interview questions 
+      - Variation of Next Closest Time - https://lnkd.in/g8Y5ktux
+      - Single Number II - https://lnkd.in/gzsT9dm9
+      - Arrangement of Blocks - https://lnkd.in/gWfkgkw8
+      - Decode String - https://lnkd.in/g5XyHnj6
+      - Check if the binary tree is a subtree of another binary tree - https://lnkd.in/gF2EQYYm
+      - K-empty Slots - https://lnkd.in/gAdDFRVN
+      - Repeated String Match - https://lnkd.in/gQkrUAGc
+      - Toeplitz Matrix - https://lnkd.in/gCcwQmSP
+      - Remove Elements from a Doubly-Linked List - https://lnkd.in/gApP98jb
+      - Minimum steps to reach a destination - https://lnkd.in/g8SVBwRe
+      - Return if there exists a path from root to leaf equal to a given sum - https://lnkd.in/gg8B_UMA
+
+    - Here are some other resources to help you prepare too!
+      - Google Coding Interview - https://lnkd.in/gQ_KkeGS
+      - Google Online Assessment Questions - https://lnkd.in/gaWa95z6
+      - Top 100 Leetcode Questions - https://lnkd.in/gy9HUVnd
+
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
