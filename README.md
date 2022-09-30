@@ -326,6 +326,7 @@
       - Google Online Assessment Questions - https://lnkd.in/gaWa95z6
       - Top 100 Leetcode Questions - https://lnkd.in/gy9HUVnd
 
+20. FB interview: https://www.linkedin.com/posts/arslanahmad_fb-meta-sde-activity-6980448214105669632-5-9e?utm_source=share&utm_medium=member_ios
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
