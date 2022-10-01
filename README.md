@@ -245,6 +245,7 @@
 3. Made With ML: https://madewithml.com/
 4. Extension for the latest developer news: https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied
 5. Google Developers Community: https://developers.google.com/community
+6. StackShare: https://stackshare.io/feed
 
 ## Embedded 
 1. Interactive Simulations: [phet colorado](https://phet.colorado.edu/)
@@ -272,6 +273,7 @@
 19. Library: https://actascientific.com/contact.php
 20. Python for Developers: https://m.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 21. Scaler: https://www.scaler.com/event/hackx/?utm_source=Champion&utm_medium=B037&utm_campaign=brand_scaler_livemasterclass_champion_B037_Masterclass
+22. 500+ Online Free Short Courses with Certificates 2022: https://brightscholarship.com/500-online-free-short-courses-with-certificates/
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
