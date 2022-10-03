@@ -546,7 +546,29 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
     - SPSS
     - SAS
     - Excel   
-    
+15. 10 Algorithms for Data Science 
+    - Linear Regression 
+    - Logistics Regression 
+    - K-means Clustering 
+    - PCA 
+    - Support Vector Machine
+    - Decision Tree 
+    - Random Forrest 
+    - Gradient Boosting Machine 
+    - XGboost 
+    - Artificial Neural Networks
+16. Top 10 Industries for Data Science 
+    - Technology 
+    - Retail 
+    - Finance 
+    - Telecom 
+    - Pharma & Healthcare 
+    - Manufacturing 
+    - Automotive 
+    - Cybersecurity 
+    - Energy 
+    - Utilities    
+
 ## Useful Reads and Links
 1. Tech Blog 👉 https://skillcrush.com/blog/
 2. Learn Web Scraping using Python in under 5 minutes 👉 https://medium.com/@kaustumbhjaiswal7/learn-web-scraping-using-python-in-under-5-minutes-36a7d4d6e1e7
@@ -585,6 +607,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 35. Safer Internet: https://1.1.1.1/
 36. How to Google like a pro: https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
 37. SkillUp courses: https://in.skillup.online/
+38. How to improve Problem solving skills: https://amymhaddad.com/how-to-get-better-at-solving-programming-problems
 
 ## Website for remote work:
 
