@@ -274,6 +274,7 @@
 20. Python for Developers: https://m.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6
 21. Scaler: https://www.scaler.com/event/hackx/?utm_source=Champion&utm_medium=B037&utm_campaign=brand_scaler_livemasterclass_champion_B037_Masterclass
 22. 500+ Online Free Short Courses with Certificates 2022: https://brightscholarship.com/500-online-free-short-courses-with-certificates/
+23. Free courses to Upskill: https://learningmountain.wordpress.com/2022/10/01/october-2022-free-learning-certification-courses-to-upskill/
 
 ## Git
 1. Beautify Your GitHub Profile like a Pro: https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093
@@ -329,6 +330,7 @@
       - Top 100 Leetcode Questions - https://lnkd.in/gy9HUVnd
 
 20. FB interview: https://www.linkedin.com/posts/arslanahmad_fb-meta-sde-activity-6980448214105669632-5-9e?utm_source=share&utm_medium=member_ios
+21. Interview Resources: https://github.com/nas5w/interview-guide
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
