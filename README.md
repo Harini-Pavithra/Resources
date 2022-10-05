@@ -285,6 +285,7 @@
 1. The home for Hackathons: https://devpost.com/
 2. Hackerearth: https://www.hackerearth.com/challenges/hackathon/reimaginefuture-hackathon/
 3. PlantYourCode: https://plantyourcode.com
+4. HacktoBerfest: https://hacktoberfest.com/
 
 ## Interviews Preparation Guide
 1. Struggling with interviews? 👉 http://bit.ly/jobinterviewsguide
