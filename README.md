@@ -130,6 +130,8 @@
 113. 100 days of ML: https://github.com/rohit077/100_Days_of_ML
 114. Tensorflow Certification: https://themlco.com/tensorflow/
 115. AWS certification: https://aws.amazon.com/training/?trk=ps_a134p000006vdeTAAQ&trkCampaign=GLBL-FY21-TrainCert-Combined_PaidSearch&sc_channel=PS&sc_campaign=FY21-TrainCert-Combined_PaidSearch&sc_publisher=Google&sc_category=Training%20and%20Certification&sc_country=CA&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20training%20and%20certification&sc_content=Generic_exact&sc_matchtype=e&sc_segment=502617786875&sc_medium=TC-P%7CPS-GO%7CBrand%7CDesktop%7CAW%7CTraining%20and%20Certification%7CCombo%7CCA%7CEN%7CText%7Cxx%7CSEM%7CPMO20-00038&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&ef_id=Cj0KCQjw6-SDBhCMARIsAGbI7UjdXMChuEmUUD2-j8XnYXVklQdsT4KPqYV3lAxL3ww_fQUvs9fGmRoaAkdpEALw_wcB%3AG%3As&utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity%20AWS%20ML%20Foundations%20Course
+116. Haystack: https://github.com/deepset-ai/haystack
+117. Solve Math Equations: https://yourstory.com/2020/07/microsoft-learning-app-ai-solve-math-equations-edtech/amp
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
