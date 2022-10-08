@@ -132,6 +132,12 @@
 115. AWS certification: https://aws.amazon.com/training/?trk=ps_a134p000006vdeTAAQ&trkCampaign=GLBL-FY21-TrainCert-Combined_PaidSearch&sc_channel=PS&sc_campaign=FY21-TrainCert-Combined_PaidSearch&sc_publisher=Google&sc_category=Training%20and%20Certification&sc_country=CA&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20training%20and%20certification&sc_content=Generic_exact&sc_matchtype=e&sc_segment=502617786875&sc_medium=TC-P%7CPS-GO%7CBrand%7CDesktop%7CAW%7CTraining%20and%20Certification%7CCombo%7CCA%7CEN%7CText%7Cxx%7CSEM%7CPMO20-00038&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&s_kwcid=AL!4422!3!502617786875!e!!g!!aws%20training%20and%20certification&ef_id=Cj0KCQjw6-SDBhCMARIsAGbI7UjdXMChuEmUUD2-j8XnYXVklQdsT4KPqYV3lAxL3ww_fQUvs9fGmRoaAkdpEALw_wcB%3AG%3As&utm_source=Udacity&utm_medium=Webpage&utm_campaign=Udacity%20AWS%20ML%20Foundations%20Course
 116. Haystack: https://github.com/deepset-ai/haystack
 117. Solve Math Equations: https://yourstory.com/2020/07/microsoft-learning-app-ai-solve-math-equations-edtech/amp
+118. AI Future: https://www.bbc.com/news/technology-53530454
+119. ML course: https://developers.google.com/machine-learning/crash-course
+120. For ML Competitions: https://shaz13.medium.com/rare-feature-engineering-techniques-for-machine-learning-competitions-de36c7bb418f
+121. Self-driving Cars: https://bdtechtalks.com/2020/07/29/self-driving-tesla-car-deep-learning/
+122. ML Algos: https://github.com/rushter/MLAlgorithms
+123. DL project: https://github.com/sulc/tfrecord-viewer
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -240,6 +246,8 @@
 9. Data Science Labs: https://www.wqu.edu/programs/applied-ds-lab/
 10. Data Infinity: https://data-science-infinity.teachable.com/p/mini-course-introduction-to-data-science-machine-learning
 11. Data Science Infinity: https://data-science-infinity.teachable.com/
+12. Data Sciencce Tutorials for beginners: https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/
+13. Data Scientist Role: https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -334,6 +342,7 @@
 
 20. FB interview: https://www.linkedin.com/posts/arslanahmad_fb-meta-sde-activity-6980448214105669632-5-9e?utm_source=share&utm_medium=member_ios
 21. Interview Resources: https://github.com/nas5w/interview-guide
+22. JavaScript Interview questions: https://webxtutor.com/binary-pattern-matching-using-javascrpt-es6-interview-question-ext-wQPBCJqSJgshWhtZwEMG
 
 ## Open Source
 1. Open Source Day: https://ghc.anitab.org/programs-and-awards/open-source-day/
