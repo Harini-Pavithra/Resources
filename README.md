@@ -138,6 +138,11 @@
 121. Self-driving Cars: https://bdtechtalks.com/2020/07/29/self-driving-tesla-car-deep-learning/
 122. ML Algos: https://github.com/rushter/MLAlgorithms
 123. DL project: https://github.com/sulc/tfrecord-viewer
+124. NLP: https://m.youtube.com/watch?v=SzAmGg2TVBg&feature=youtu.be
+125. Azure Data Factory: https://m.youtube.com/playlist?list=PLGjZwEtPN7j8b9dPA0HrtJDptOB69B506
+126. Free Open source tool for messy data: https://openrefine.org/
+127. AI and Algos: https://m.youtube.com/watch?v=s0dMTAQM4cw&feature=youtu.be
+128. Math for ML: https://m.youtube.com/playlist?list=PLGLfVvz_LVvT8Ao7Le7p4LAedswe4c96U
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
