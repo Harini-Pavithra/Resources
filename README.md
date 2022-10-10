@@ -143,6 +143,13 @@
 126. Free Open source tool for messy data: https://openrefine.org/
 127. AI and Algos: https://m.youtube.com/watch?v=s0dMTAQM4cw&feature=youtu.be
 128. Math for ML: https://m.youtube.com/playlist?list=PLGLfVvz_LVvT8Ao7Le7p4LAedswe4c96U
+129. ML recommendation: https://developers.google.com/machine-learning/recommendation
+130. Model Transperency: https://ai.googleblog.com/2020/07/introducing-model-card-toolkit-for.html?m=1
+131. Automated ML: https://learn.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml
+132. ML Cheat-Sheet: https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
+133. Neural Networks: https://netron.app/
+134. ML in 3 months: https://www.youtube.com/watch?v=Cr6VqTRO1v0&t=78s
+135. Azure: https://www.youtube.com/watch?v=Jf0ZefMtgnE
 
 ## Cloud
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
@@ -253,6 +260,7 @@
 11. Data Science Infinity: https://data-science-infinity.teachable.com/
 12. Data Sciencce Tutorials for beginners: https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/
 13. Data Scientist Role: https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4
+14. Data Tutuorial: https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
@@ -627,6 +635,7 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 36. How to Google like a pro: https://www.freecodecamp.org/news/how-to-google-like-a-pro-10-tips-for-effective-googling/
 37. SkillUp courses: https://in.skillup.online/
 38. How to improve Problem solving skills: https://amymhaddad.com/how-to-get-better-at-solving-programming-problems
+39. Answers for All Questions: https://ashutoshhathidara.com/truvisory/#/
 
 ## Website for remote work:
 
