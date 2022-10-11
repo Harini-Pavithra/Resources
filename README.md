@@ -150,8 +150,15 @@
 133. Neural Networks: https://netron.app/
 134. ML in 3 months: https://www.youtube.com/watch?v=Cr6VqTRO1v0&t=78s
 135. Azure: https://www.youtube.com/watch?v=Jf0ZefMtgnE
+136. Time Series Applications: https://www.knime.com/blog/building-a-time-series-analysis-application
+137. Deep Learning: https://towardsdatascience.com/deep-learning-not-only-for-the-big-ones-bd16b019d5e8
+138. GAN: https://realpython.com/generative-adversarial-networks/
+139. CV: https://analyticsindiamag.com/why-is-computer-vision-hard-to-implement/
+140. Google's ML Certificate: https://www.kdnuggets.com/2020/07/googles-new-machine-learning-certificate.html
+141. Pytoruch Tutorial: https://m.youtube.com/watch?v=GIsg-ZUy0MY&feature=youtu.be
 
 ## Cloud
+
 1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
 2. To know about what's free in every month: https://acloudguru.com/blog/news
 3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
@@ -261,6 +268,7 @@
 12. Data Sciencce Tutorials for beginners: https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/
 13. Data Scientist Role: https://towardsdatascience.com/know-what-employers-are-expecting-for-a-data-scientist-role-in-2020-65ad68553cc4
 14. Data Tutuorial: https://analyticsindiamag.com/dtale-tutorial-guide-to-visualize-pandas-data-structure/
+15. Data Science Project: https://towardsdatascience.com/data-science-projects-that-will-get-you-the-job-805065e7260
 
 ## Developer Communities
 1. Morioh: https://morioh.com/
