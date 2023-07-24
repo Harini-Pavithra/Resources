@@ -1,0 +1,177 @@
+## Top 10 Resources
+1. TOP 10 SQL Concepts for Job Interview
+   - Aggregate Functions (sum/avg/max/min)
+   - Group By and Order By
+   - JOINs (Inner/Left/Right/Self)
+   - Union and Union All
+   - Date and Time processing
+   - String processing
+   - Window Functions (Partition by)
+   - Subquery
+   - View and Index
+   - Common Table Expression (CTE)
+2. TOP 10 Python Concepts for Job Interview
+   - Reading data from file/table
+   - Writing data to file/table
+   - Data Types
+   - Function
+   - Data Processing (numpy/pandas)
+   - Data Visualisation (matplotlib/seaborn)
+   - Machine Learning (sklearn)
+   - Deep Learning (Tensorflow/Keras/PyTorch)
+   - Distributed Processing (PySpark)
+   - Functional and Object Oriented Programming
+3. TOP 10 Statistics Concepts for Job Interview
+   - Sampling and Sample Size Estimation
+   - Experiments (A/B tests)
+   - Descriptive Statistics (Mean/Median/SD)
+   - p-value and Significance Level
+   - Probability Distributions
+   - Z-test and t-test
+   - Conditional Probability and Bayes’ Theorem
+   - Correlation
+   - Linear Regression
+   - Logistic Regression
+4. Top 10 Websites for Data Science 
+   - Coursera 
+   - EdX 
+   - Udacity 
+   - Datacamp 
+   - Udemy 
+   - Khan Academy
+   - Kaggle 
+   - Analytics Vidhya 
+   - R-bloggers 
+   - KDNuggets
+5. Top 10 Skills for Data Science 
+   - Probability & Statistics 
+   - Linear Algebra 
+   - Python 
+   - R 
+   - SQL/Presto 
+   - Tableau/PowerBI 
+   - AWS/Azure 
+   - Spark 
+   - Excel 
+   - DevOps Top 
+6. Top 10 Sites for your career
+   - LinkedIN
+   - Indeed
+   - Careerealism
+   - Job-Hunt
+   - JobBait
+   - Career
+   - cloudGM4JH. com
+   - Talentsjobs. in
+   - Jibberjobber
+   - Glassdoor
+7. Top 10 Tech Skills in demand in 2022
+   - Machine Learning
+   - Mobile Development
+   - SEO/SEM Marketing
+   - Data Visualization
+   - Data Engineering
+   - UI/UX Design
+   - Cyber-security
+   - Cloud Computing/AWS
+   - Blockchain
+   - IOT
+8. Top 10 Sites for Free Online Education:
+   - Coursera
+   - edX
+   - Khan Academy
+   - Udemy
+   - iTunesU Free Courses
+   - MIT OCW
+   - Stanford Online
+   - Codecademy
+   - Open Culture Online Courses
+   - Harvard courses
+9. Top 10 Sites to learn Excel for free
+   - Microsoft Excel Help Center
+   - Excel Exposure
+   - Chandoo
+   - Excel Central
+   - Contextures
+   - Excel Hero
+   - Mr. Excel
+   - Improve Your Excel
+   - Excel Easy
+   - Excel Jet
+10. TOP 10 Deep Learning Models for Data Science
+    - RNN
+    - CNN
+    - LSTM
+    - GAN
+    - BSTS
+    - Prophet
+    - AutoEncoders
+    - Boltzmann Machines
+    - BERT
+    - GP
+11. TOP 10 Machine Learning Models for Data Science
+    - Linear Regression
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+    - SVM
+    - GBM
+    - XGBoost
+    - KNN
+    - Clustering
+    - PCA
+12. TOP 10 R Packages for Data Science
+    - dplyr
+    - data.table
+    - H2O
+    - mlr
+    - XGBoost
+    - Caret
+    - LightGBM
+    - e1071
+    - rpart 
+    - nnet
+13. TOP 10 Python Packages for Data Science
+    - Pandas
+    - Numpy
+    - Scipy
+    - sklearn
+    - Tensorflow
+    - Keras
+    - PyTorch
+    - NLTK
+    - Spacy
+    - Gensim
+14. TOP 10 Tools for Data Science
+    - Python
+    - R
+    - SQL
+    - Java
+    - Scala
+    - Julia
+    - Matlab 
+    - SPSS
+    - SAS
+    - Excel   
+15. 10 Algorithms for Data Science 
+    - Linear Regression 
+    - Logistics Regression 
+    - K-means Clustering 
+    - PCA 
+    - Support Vector Machine
+    - Decision Tree 
+    - Random Forrest 
+    - Gradient Boosting Machine 
+    - XGboost 
+    - Artificial Neural Networks
+16. Top 10 Industries for Data Science 
+    - Technology 
+    - Retail 
+    - Finance 
+    - Telecom 
+    - Pharma & Healthcare 
+    - Manufacturing 
+    - Automotive 
+    - Cybersecurity 
+    - Energy 
+    - Utilities    
