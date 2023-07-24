@@ -1,4 +1,5 @@
-## Interview Tips
+## Kaggle Tips
+The following are the interview tips I received as a part of Udacity ND.
 1. Try to avoid following datasets and related problems in your resume
 
 - Titanic dataset
