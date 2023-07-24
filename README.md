@@ -157,15 +157,6 @@
 140. Google's ML Certificate: https://www.kdnuggets.com/2020/07/googles-new-machine-learning-certificate.html
 141. Pytoruch Tutorial: https://m.youtube.com/watch?v=GIsg-ZUy0MY&feature=youtu.be
 
-## Cloud
-
-1. Docker course for Beginners: https://www.tutorialbar.com/docker-course-for-beginners/
-2. To know about what's free in every month: https://acloudguru.com/blog/news
-3. GoogleCloudReady Facilitator Program: https://events.withgoogle.com/googlecloudready-facilitator-program/
-4. Deploy projects: https://vercel.com/
-5. Free tool to deploy: https://www.netlify.com/
-6. 30DaysOfCloud: https://dschit.com/thirtydayscloud.html#tracks
-
 ## Coding and Data Structures 
 1. Codebar: https://codebar.io/
 2. 30daysofcoding: https://www.blocktrain.info/
@@ -387,28 +378,6 @@ IMPORTANT NOTICE: The Summer Splash discount will be applied to University stude
 37. SkillUp courses: https://in.skillup.online/
 38. How to improve Problem solving skills: https://amymhaddad.com/how-to-get-better-at-solving-programming-problems
 39. Answers for All Questions: https://ashutoshhathidara.com/truvisory/#/
-
-## Website for remote work:
-
-⚡ remoteok.com
-⚡ jsremotely.com
-⚡ flexjobs.com
-⚡remote.co
-⚡ justremote.co
-⚡ weworkremotely.com
-⚡ jobspresso.co
-⚡ dailyremote.com
-⚡ angel.co
-⚡ remoteleaf.com
-⚡ remoteleads.io
-⚡ hired.com
-⚡ remotebear.io
-⚡ remotebear.io
-⚡ fullremote.it
-⚡ flatworld.co
-⚡ peoplefirstjobs.com
-⚡ remoteindex.co 
-⚡ turing.com
 
 ## Women Communities and Programs for Women
 1. PyLadies: https://pyladies.com/ 
